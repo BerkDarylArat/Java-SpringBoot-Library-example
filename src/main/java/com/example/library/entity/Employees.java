@@ -1,9 +1,8 @@
 package com.example.library.entity;
 
-import jakarta.persistence.*;
 import lombok.Data;
 
-import java.util.Date;
+import javax.persistence.*;
 
 @Entity
 @Data
